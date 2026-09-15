@@ -15,9 +15,9 @@ Maria Aparecida Coelho de Sousa; e
 Sthefany Kailane Lima de Sousa.
 
 Stack tecnológico:
-Python
-Flask
-MySQL
+Python; 
+Flask; 
+MySQL.
 
-Status do projeto
+Status do projeto:
 Marco 1: Ok, ambiente configurado.

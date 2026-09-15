@@ -1,7 +1,7 @@
 ATLAS IF – Sistema de Saúde do IFPI
 
 O que significa ATLAS?
-A.T.L.A.S. – Acompanhamento Tecnológico de Logística e Atendimentos a Saúde
+A.T.L.A.S. – Acompanhamento Tecnológico de Logística e Atendimentos a Saúde.
 O nome representa a proposta do sistema de centralizar informações, organizar atendimentos e facilitar o acompanhamento da saúde dos estudantes do IFPI.
 
 Sobre o projeto:
